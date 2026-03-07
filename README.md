@@ -1,6 +1,6 @@
 # Hi 👋 I'm Patrick Munene
 
-💻 IT Support Engineer at Twiga Foods One Ltd 
+💻 IT Support Specialist at Twiga Foods One Ltd 
 ☁️ Cloud & DevOps Enthusiast  
 🔧 Passionate about Automation, Infrastructure, and Systems Support  
 
