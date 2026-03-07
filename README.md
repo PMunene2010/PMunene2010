@@ -47,6 +47,7 @@
 
 - LinkedIn: https://linkedin.com/
 - Email: pmnez2010@gmail.com
+- Phone : 0701259311
 ---
 ## 🏗 Projects
 
