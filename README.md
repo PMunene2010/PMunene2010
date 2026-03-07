@@ -47,5 +47,13 @@
 
 - LinkedIn: https://linkedin.com/
 - Email: pmnez2010@gmail.com
+---
+## 🏗 Projects
+
+- [FreePBX Deployment on VM](https://github.com/PMunene2010/FreePBX-Deployment) – Automated PBX setup on Ubuntu VM
+- [Linux Server Setup Lab](https://github.com/PMunene2010/Linux-Server-Lab) – Step-by-step Linux server configurations
+- [PowerShell IT Automation Scripts](https://github.com/PMunene2010/PowerShell-Automation) – Scripts for user management and IT tasks
+- [Azure CLI Automation](https://github.com/PMunene2010/Azure-CLI-Automation) – Automation of Azure resources
+---
 
 - ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=PMunene2010)
