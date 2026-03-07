@@ -32,6 +32,7 @@
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMunene2010&show_icons=true)
 
 ---
+![Patrick's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=PMunene2010&theme=default)
 
 ## 🔧 Tools
 
@@ -46,3 +47,5 @@
 
 - LinkedIn: https://linkedin.com/
 - Email: pmnez2010@gmail.com
+
+- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=PMunene2010)
