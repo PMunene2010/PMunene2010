@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋 I'm Patrick Munene
 
-<!--
-**PMunene2010/PMunene2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Support Engineer at Twiga Foods One Ltd 
+☁️ Cloud & DevOps Enthusiast  
+🔧 Passionate about Automation, Infrastructure, and Systems Support  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- IT Support Engineer with strong troubleshooting and systems support experience
+- Working with Microsoft 365, networking, and virtualization
+- Currently learning **Cloud, DevOps, and Infrastructure Automation**
+- Interested in **Azure, Linux, and System Administration**
+
+---
+
+## 🛠️ Skills & Technologies
+
+- Microsoft 365 Administration
+- Azure
+- Linux
+- Networking
+- PowerShell
+- Virtual Machines
+- System Troubleshooting
+
+---
+
+## 📊 GitHub Stats
+
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMunene2010&show_icons=true)
+
+---
+
+## 🔧 Tools
+
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoftazure)
+![PowerShell](https://img.shields.io/badge/PowerShell-blue?logo=powershell)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/
+- Email: pmnez2010@gmail.com
