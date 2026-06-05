@@ -61,21 +61,49 @@ My goal is to evolve from supporting systems to building and managing scalable c
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoftoffice)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+## 🏷️ Skills & Topics
+
+![DevOps](https://img.shields.io/badge/DevOps-informational?style=flat&color=0078D4)
+![Infrastructure as Code](https://img.shields.io/badge/IaC-informational?style=flat&color=0078D4)
+![CI/CD](https://img.shields.io/badge/CI/CD-informational?style=flat&color=0078D4)
+![Cloud Engineering](https://img.shields.io/badge/Cloud_Engineering-informational?style=flat&color=0078D4)
+![Automation](https://img.shields.io/badge/Automation-informational?style=flat&color=0078D4)
+![System Administration](https://img.shields.io/badge/System_Admin-informational?style=flat&color=0078D4)
 
 ---
 
 ## 📊 GitHub Analytics
 
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMunene2010&show_icons=true&count_private=true)
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMunene2010&show_icons=true&count_private=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PMunene2010)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PMunene2010&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PMunene2010&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PMunene2010&theme=react-dark)
 
 ---
 
 ## 🚀 Featured Projects
 
 🔹 **FreePBX Deployment on VM**  
-VoIP system setup on Ubuntu Server  
+VoIP system setup on Ubuntu Server - Complete telephony solution  
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/PMunene2010/FreePBX-Deployment)
+[![Status](https://img.shields.io/badge/status-Active-brightgreen)]()
+
+🔹 **Breakers Hospital Management System**  
+Enterprise hospital management system with patient records and scheduling  
+[![License](https://img.shields.io/badge/license-MIT-green)]()
+[![Status](https://img.shields.io/badge/status-Maintenance-yellow)]()
+
+🔹 **Breakers Cake Palace**  
+Modern bakery e-commerce website with TypeScript/React  
+[![License](https://img.shields.io/badge/license-MIT-green)]()
 
 🔹 **Linux Server Setup Lab**  
 Server configuration, hardening & documentation  
@@ -100,6 +128,7 @@ Automated Azure resource provisioning
 
 ## 📫 Connect With Me
 
+- 🐙 GitHub: https://github.com/PMunene2010
 - 💼 LinkedIn: https://www.linkedin.com/in/patrick-munene-3406288b
 - 📧 Email: pmnez2010@gmail.com  
 
