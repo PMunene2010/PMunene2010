@@ -105,4 +105,8 @@ Automated Azure resource provisioning
 
 ---
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=PMunene2010)
+<div align="center">
+  
+  [![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPMunene2010%2FPMunene2010&countColor=%23263759)](https://visitorbadge.io/visitors?path=https%3A%2F%2Fgithub.com%2FPMunene2010%2FPMunene2010)
+  
+</div>
