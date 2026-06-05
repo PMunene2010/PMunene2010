@@ -66,7 +66,7 @@ My goal is to evolve from supporting systems to building and managing scalable c
 
 ## 📊 GitHub Analytics
 
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMunene2010&show_icons=true)
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMunene2010&show_icons=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PMunene2010)
 
@@ -100,7 +100,7 @@ Automated Azure resource provisioning
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/www.linkedin.com/in/patrick-munene-3406288b
+- 💼 LinkedIn: https://www.linkedin.com/in/patrick-munene-3406288b
 - 📧 Email: pmnez2010@gmail.com  
 
 ---
